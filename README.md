@@ -44,7 +44,7 @@ While building this project, I learned how FastAPI makes it easy to create clean
 3. Open the API documentation at:
    - http://127.0.0.1:8000/docs
 
-## Project structure
+## Project Structure
 
 - main.py - the FastAPI app and route definitions
 - models.py - Pydantic models for request and response data
